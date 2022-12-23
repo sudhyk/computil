@@ -2,7 +2,7 @@
   "name": "computil",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",
+  "exports": "./lib/index.js",
   "type": "module",
   "keywords": [],
   "scripts": {
